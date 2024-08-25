@@ -16,9 +16,7 @@
 
   <ItemGroup>
     <Folder Include="DTO\" />
-    <Folder Include="Model\" />
     <Folder Include="Repository\" />
-    <Folder Include="Service\" />
   </ItemGroup>
 
 </Project>
